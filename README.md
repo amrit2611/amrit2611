@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://www.linkedin.com/in/amrit2611/)
 <h1 align="center">Hi 👋, I'm Amrit Dhandharia</h1>
-<h3 align="center">Developing not just Web apps but my mindset.</h3>
+<h3 align="center">Developing not just Web apps but my mindset.</h3><br>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWIyZjFjMDc5NzIzYWQ5MzgyNTQ1MjFiNGRjZDg1ZDgyNzI2MTAzYSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
