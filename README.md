@@ -41,7 +41,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrit2611&show_icons=true&locale=en" alt="amrit2611" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrit2611&" alt="amrit2611" /></p><br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrit2611&" alt="amrit2611" /></p><br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrit2611" alt="amrit2611" /></a> </p>
 
