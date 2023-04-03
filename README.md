@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **MongoDB, ExpressJS, Advanced Javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/amrit2611](https://github.com/amrit2611)
+- 👨‍💻 All of my projects are available <br>at [https://github.com/amrit2611](https://github.com/amrit2611)
 
 - 💬 Ask me about **ReactJS**
 
