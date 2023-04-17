@@ -39,7 +39,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrit2611&theme=highcontrast&hide_border=true" alt="amrit2611" /></p><br><br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrit2611&show_icons=true&locale=en&layout=compact" alt="amrit2611" /></p><br><br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrit2611&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="amrit2611" /></p><br><br>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrit2611&show_icons=true&locale=en" alt="amrit2611" /></p><br><br>
 
