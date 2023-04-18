@@ -43,7 +43,8 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrit2611&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="amrit2611" /></p><br><br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrit2611" alt="amrit2611" /></a> </p><br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=amrit2611&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
