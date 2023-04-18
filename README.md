@@ -43,7 +43,7 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrit2611&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="amrit2611" /></p><br><br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrit2611&theme=highcontrast&hide_border=true" alt="amrit2611" /></a> </p><br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrit2611" alt="amrit2611" /></a> </p><br>
 
  <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
