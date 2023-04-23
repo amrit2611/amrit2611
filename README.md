@@ -4,7 +4,7 @@
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in//in/amrit2611) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/amrit2611) 
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWIyZjFjMDc5NzIzYWQ5MzgyNTQ1MjFiNGRjZDg1ZDgyNzI2MTAzYSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWIyZjFjMDc5NzIzYWQ5MzgyNTQ1MjFiNGRjZDg1ZDgyNzI2MTAzYSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrit2611&label=Profile%20views&color=0e75b6&style=flat" alt="amrit2611" /> </p>
