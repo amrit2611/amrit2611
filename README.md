@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrit2611&label=Profile%20views&color=0e75b6&style=flat" alt="amrit2611" /> </p>
 
-
-
-<p align="left"> <a href="https://twitter.com/amrit2611" target="blank"><img src="https://img.shields.io/twitter/follow/amrit2611?logo=twitter&style=for-the-badge" alt="amrit2611" /></a> </p>
-
 - 🌱 I’m currently learning **MongoDB, ExpressJS, Advanced Javascript**
 
 - 👨‍💻 All of my projects are available @ [GitHub](https://github.com/amrit2611)
