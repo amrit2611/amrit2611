@@ -28,11 +28,11 @@
 
 
 
-<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amrit2611&theme=highcontrast&hide_border=true" alt="amrit2611" /></p><br><br>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=amrit2611&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=amrit2611&theme=highcontrast&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amrit2611&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrit2611&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="amrit2611" /></p><br><br>
-
-<p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=amrit2611&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="amrit2611" /></p><br><br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amrit2611&theme=radical&no-frame=true&no-bg=true&margin-w=4)
