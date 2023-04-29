@@ -10,13 +10,13 @@
 <div align="left">
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in//in/amrit2611) 
 <a href="mailto:omgawandeofficial9834899149@gmail.com" target="_blank"> -->
-<a href="https://www.linkedin.com/in/om-gawande/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Spyware linkedin style="margin-bottom: 5px;" />
+<a href="https://www.linkedin.com/in/amrit2611/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=amrit2611 linkedin style="margin-bottom: 5px;" />
 </a>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=omgawandeofficial9834899149@gmail.com mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=cse.20201029@gmail.com mail style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/_s_p_i_d_e_y_1" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=Spyware007 twitter style="margin-bottom: 5px;" />
+<a href="https://twitter.com/amrit2611" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=amrit2611 twitter style="margin-bottom: 5px;" />
 </a>
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/amrit2611)  -->
 </div>
