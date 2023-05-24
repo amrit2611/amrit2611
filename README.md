@@ -51,8 +51,23 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=amrit2611&theme=highcontrast&hide_border=true)<br/><br>
-![](https://github-readme-stats.vercel.app/api?username=amrit2611&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false)<br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=amrit2611&theme=highcontrast&hide_border=true)<br/><br>
+![](https://github-readme-stats.vercel.app/api?username=amrit2611&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true)<br/> -->
+
+<table>
+  <tr>
+   <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrit2611&theme=highcontrast&hide_border=true" alt="amrit2611" /></td> 
+   <td><img src="https://github-readme-stats.vercel.app/api?username=amrit2611&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true" alt="amrit2611" /></td>
+  </tr>
+</table>
+
+<div align="center">
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amrit2611&show_icons=true&theme=highcontrast&hide_border=true&locale=en&layout=compact&include_all_commits=true&count_private==true" alt="amrit2611" /></p>
+  </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amrit2611&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
 
